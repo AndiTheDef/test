@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/andiidemii.github.io/static/css/main.4afa0bfc.css",
+    "main.js": "/andiidemii.github.io/static/js/main.4d6c7c12.js",
+    "static/js/787.1ed0c42c.chunk.js": "/andiidemii.github.io/static/js/787.1ed0c42c.chunk.js",
+    "index.html": "/andiidemii.github.io/index.html",
+    "main.4afa0bfc.css.map": "/andiidemii.github.io/static/css/main.4afa0bfc.css.map",
+    "main.4d6c7c12.js.map": "/andiidemii.github.io/static/js/main.4d6c7c12.js.map",
+    "787.1ed0c42c.chunk.js.map": "/andiidemii.github.io/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4afa0bfc.css",
+    "static/js/main.4d6c7c12.js"
+  ]
+}
